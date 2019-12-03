@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learning for the project
+          Learning data
             
           }
         </a>
