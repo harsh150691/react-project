@@ -20,6 +20,8 @@ function App() {
         >
           Learning data 
           how to route the data
+          Learning data
+
             
           }
         </a>
